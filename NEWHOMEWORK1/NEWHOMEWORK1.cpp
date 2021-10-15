@@ -85,8 +85,8 @@ public:
 			" a = " << static_cast<int>(m_alpha) << '\n';
 	}
 	/*newhomework2
-      END
-    */
+          END
+        */
 };
 
 
